@@ -23,10 +23,11 @@ Aparentely, uploading any image JsDelivr will show. So, when uploading a blank i
 ## If Doesn't Work 
 
 * look at another `cdn.jsdelivr.net` url and compare to yours.
+* Try another server other than `cdn.jsdelivr.net`.
 * look at my other img file.
 * that means that it's probably blocked. 
 
 ## Credits 
 
 dogeub | github (img file running)
-2pro1232 | github (guide)
+2pro12342 | github (guide)
